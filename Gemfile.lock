@@ -1,0 +1,12 @@
+GEM
+  specs:
+    jekyll-theme-prologue (0.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-theme-prologue (~> 0.3.2)
+
+BUNDLED WITH
+   1.15.3
